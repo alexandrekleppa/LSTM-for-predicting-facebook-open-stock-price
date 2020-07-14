@@ -11,8 +11,8 @@ Sklearn, Pandas, Numpy, Matplotlib, Keras.
 ### TO DO:
 - Download the stock price from the internet
 - Add the sheet to yout python environment
-- Chose the time window to be analyzed for the prediction (in this case 90 days) 
-- Chose the time window to be predicted (in this case 10 days)
+- Chose the time window to be analyzed for the prediction 
+- Chose the time window to be predicted
 - Train your code 
 - Make the prediction
 - Plot the results 
