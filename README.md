@@ -4,7 +4,7 @@ A LSTM-based approach for predicting Facebook's open stock price considering the
 ## Two weeks (working days) prediction considering the previous 90 days of the open price
 ![2_w_pred](2_w_fb_prediction.png)
 
-
+## Two months (working days) prediction considering the previous 120 days of open price
 ### Libraries 
 Sklearn, Pandas, Numpy, Matplotlib, Keras.
 
