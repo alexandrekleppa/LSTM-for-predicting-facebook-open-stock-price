@@ -24,5 +24,6 @@ Sklearn, Pandas, Numpy, Matplotlib, Keras.
 - Make the prediction
 - Plot the results 
 
-
+# Acknowledgments 
+Dataset from Macrotrends (https://www.macrotrends.net/stocks/charts/FB/facebook/stock-price-history)
 
