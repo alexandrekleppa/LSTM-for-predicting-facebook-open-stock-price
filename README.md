@@ -7,7 +7,8 @@ Prediction made considering the previous 90 days of Facebook's stock open price
 ![2_w_pred](2_w_fb_prediction.png)
 
 ## Two months (working days) prediction
-Prediction made considering the previous 90 days of Facebook's stock open price
+Prediction made considering the previous 90 days of Facebook's stock open price.
+Every 90 days, a prediction of the next two weeks is done.
 
 ![2_m_pred](2_2m_fb_prediction.png)
 
